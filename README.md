@@ -1,6 +1,6 @@
-### Welcome to my Github
+## Welcome to my Github
 
-## Here you will find personal journey on upskilling in Cloud Engineering
+### Here you will find personal journey on upskilling in Cloud Engineering
 
 **Three things that I want you to get out of this.** 
 1. Linux is embedding in everything cloud
